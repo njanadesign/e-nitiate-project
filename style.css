@@ -1,103 +1,25 @@
-body {
-	font-family: Domine;
-}
-
-.subtitle {
-    color: #E86925;
-    padding: 50px;
-	text-transform: uppercase;
-    
-}
-
-.bigtitle {
-	font-family: Shrikhand;
-	font-size: 50px;
-	text-align: center;
-	color: white;
-  	overflow: hidden;
- 	position: fixed;
- 	top: 0;
- 	width: 100%;
-
-
-} 
 *{
-	border: 200px;
-	border-color: white;
+	padding: 0;
+	border:0;
+}
+
+h1{
+	font-family: Roboto+Condensed;
+	text-transform: uppercase;
+	font-size: 60px;
+	text-align: center;
 
 }
 
-body {
-	background-color: #eaf2ff;
-	margin:60px;
-	border-width: 8px;
-	border-color: cornflowerblue;
-	border-style: solid;
-	padding: 20px;
+h2{
+	font-size: 20px;
+	font-family: Roboto+Condensed;
+	text-align: center;
+
 }
-
-html {
-	border-style: solid;
-    border-width: 5px;
+.g1,.g2,.g3 {
+	padding: 10px
+	width:100px;
+	height: 100px;
 }
-*::selection {
-  color: yellow;
-  background: pink;
-	
-}
-p {
-	line-height: 50px;
-}
-
-
-.bigtitle:hover { 
-    padding: 20px;
-	background-color: yellow;
-	background-image: url(https://images.pexels.com/photos/371633/pexels-photo-371633.jpeg?cs=srgb&dl=clouds-country-daylight-371633.jpg&fm=jpg)
-	
-}
-.bigtitle {
-	background-image: url(https://static.photocdn.pt/images/articles/2017/04/28/iStock-646511634.jpg);
-}
-.poro:hover{
-	background-image: url(http://24.media.tumblr.com/c00934627bf9f409cc328063ec120416/tumblr_mjz98qXmns1s5jjtzo1_500.gif)
-}
-
-
-
-.button1 {
-    background-color: white;
-    color: black;
-    padding: 7px;
-	border: 2px solid #4CAF50; 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
