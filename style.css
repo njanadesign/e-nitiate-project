@@ -1,25 +1,80 @@
 *{
 	padding: 0;
 	border:0;
+	margin: 0;
 }
 
 h1{
-	font-family: Roboto+Condensed;
+	font-family: Roboto Condensed;
 	text-transform: uppercase;
 	font-size: 60px;
 	text-align: center;
+	color: white;
+	padding-top: 350px;
 
 }
 
 h2{
 	font-size: 20px;
-	font-family: Roboto+Condensed;
+	font-family: Roboto Condensed;
 	text-align: center;
+	color:white;
+	padding-bottom: 100px;
 
 }
-.g1,.g2,.g3 {
-	padding: 10px
-	width:100px;
-	height: 100px;
+
+/*.g2,.g3 {
+	
+}*/
+body{
+	background-image: url(bg.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
 }
-.
+
+img {
+	height: 300px;
+	width: 30%;
+	text-align: center;
+	padding: 10px;
+	background-color: white;
+
+}
+
+.g1{
+	padding-top: 30px;
+	text-align: center;
+	background-color: white;
+
+}
+
+
+.g2{
+	
+	text-align: center;
+	background-color: white;
+}
+
+
+.g3{
+	
+	text-align: center;
+	background-color: white;
+}
+
+
+
+
+
+img:hover{
+
+    transform: translateY(-20px);
+   -webkit-transition:1s;
+
+
+}
+
+.allpics{
+ 	padding-top: 340px;
+}
